@@ -1,6 +1,4 @@
-Hi, I’m Beau,
-I’m looking to collaborate on creating a currency.
-Contact: https://t.me/beaudenison
+hi
 
 <!---
 beaudenison/beaudenison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
