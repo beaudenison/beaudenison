@@ -1,6 +1,4 @@
-hi
-
-i write about all these random things i put in here on X @beaudenison
+meme lord
 
 <!---
 beaudenison/beaudenison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
