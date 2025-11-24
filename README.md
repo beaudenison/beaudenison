@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm Beau Denison
+# Hi there! 👋 I'm Beau
 
 ## 🎭 About Me
 
 - 😄 Meme lord by nature
-- 💻 Passionate about technology and coding
+- 💻 Nerd
 - 🌱 Always learning something new
 - 🎯 Open to collaborating on interesting projects
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me here on GitHub!
+Feel free to connect with me here on GitHub or on X @beaudenison!
 
 ---
 
