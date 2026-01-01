@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hey, I'm Beau
-
 ### Meme Lord 
 
 <a href="https://x.com/beaudenison" target="_blank">
