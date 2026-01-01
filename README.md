@@ -1,12 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Beau Denison
+# 👋 Hey, I'm Beau
 
-### 😄 Meme Lord | 💻 Nerd | 🌱 Always Learning
-
----
-
-## 🔗 Connect With Me
+### Meme Lord 
 
 <a href="https://x.com/beaudenison" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -32,8 +28,5 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
----
-
-### 🎯 Open to collaborating on interesting projects!
 
 </div>
