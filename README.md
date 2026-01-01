@@ -1,6 +1,6 @@
 <div align="center">
 
-### Meme Lord 
+### meme lord 
 
 <a href="https://x.com/beaudenison" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
