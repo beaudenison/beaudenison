@@ -45,7 +45,3 @@ Python-based integration tool for Discord, enabling enhanced communication workf
 ## 📫 Let's Connect
 
 I'm always interested in discussing technology, automation, cybersecurity, and innovative IT solutions. Feel free to explore my repositories and reach out!
-
----
-
-*Building reliable systems, one commit at a time.*
