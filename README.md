@@ -1,47 +1,24 @@
-# Hi, I'm Beau 👋
+# Beau Denison
 
-**Systems Engineer | IT Infrastructure Specialist | Cybersecurity Enthusiast**
+Systems engineer in Spokane. I started in desktop support and now work on identity, endpoints, and remote access.
 
-Results-oriented Systems Engineer with over 15 years of progressive experience in IT infrastructure, network administration, and operations management. I specialize in optimizing complex Microsoft 365 environments and implementing reliable, secure systems across diverse organizational settings.
+## Right now
 
-## 🚀 What I Do
+System Engineer at Heritage Imaging. Day to day is Microsoft 365, Azure, Intune, Active Directory, and multi-OS fleets (Windows, macOS, Linux).
 
-I bring together enterprise IT operations, cloud infrastructure, and emerging technologies to drive efficiency and operational scalability. Currently expanding my expertise in cybersecurity with multiple security certifications in progress.
+I run Docker and Docker Compose for app and server lifecycle, and Zero Trust remote access with Tailscale and WireGuard so services talk over a mesh without opening public firewall ports.
 
-### Areas of Expertise
+## Tools and systems
 
-- **Cloud & M365 Ecosystem**: Azure, Intune, SharePoint, Power Automate
-- **Infrastructure Management**: Network administration, system reliability, ITSM
-- **Security & Compliance**: Process improvement, automation, security measures
-- **Emerging Tech**: AI/Prompt Programming, data analysis, reporting
-- **Multi-Platform Support**: Windows, Linux, macOS
+- **Docker / Compose** — containerized deployments, persistent volumes, automated start/stop and resource allocation
+- **Tailscale / WireGuard** — mesh VPN and Zero Trust remote access for endpoints and servers
+- Small utilities when something does not exist yet, then I open-source them
 
-## 🛠️ Featured Projects
+## Before this
 
-### [Streaming Tools](https://github.com/beaudenison/streamingtools) ⭐
-A comprehensive toolkit for streamers built with web technologies. Helps content creators enhance their streaming setup with custom tools and utilities.
+Desktop support (2015) → marketing/BI → IT Officer and IT Manager for multi-site tribal enterprise (retail, hospitality, housing) → systems engineering.
 
-### [Minecraft Server Manager](https://github.com/beaudenison/minecraft-server-manager)
-Docker-based Minecraft server with an intuitive web management panel built in Python. Simplifies server deployment and administration.
+## Links
 
-### [Discord Bridge](https://github.com/beaudenison/DiscordBridge)
-Python-based integration tool for Discord, enabling enhanced communication workflows.
-
-## 📚 Current Focus
-
-- **Certifications in Progress**: ISC2 Cybersecurity | Google Cybersecurity | CompTIA Security+
-- Exploring AI integration in IT operations
-- Building automation solutions for enterprise environments
-
-## 💼 Professional Background
-
-15+ years of IT experience across enterprise environments including:
-- Enterprise systems engineering and M365 optimization
-- IT infrastructure management for multi-site operations
-- Technical support and service delivery at scale
-- Data analysis and strategic reporting
-- Process improvement and automation initiatives
-
-## 📫 Let's Connect
-
-I'm always interested in discussing technology, automation, cybersecurity, and innovative IT solutions. Feel free to explore my repositories and reach out!
+- [LinkedIn](https://www.linkedin.com/in/itbeau)
+- [DEV](https://dev.to/beau)
