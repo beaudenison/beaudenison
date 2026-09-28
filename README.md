@@ -1,14 +1,16 @@
 # Beau Denison
 
-Systems engineer in Spokane. I started in desktop support and now work on identity, endpoints, and remote access.
+Systems Engineer | Endpoint, identity & Zero Trust | Intune · Entra · ZTNA
 
 ## Right now
 
-System Engineer at Heritage Imaging. Day to day is Microsoft 365, Azure, Intune, Active Directory, and multi-OS fleets (Windows, macOS, Linux).
+Systems engineer focused on Microsoft 365, endpoint management, and Zero Trust access.
 
-I run Docker and Docker Compose for app and server lifecycle, and Zero Trust remote access with Tailscale and WireGuard so services talk over a mesh without opening public firewall ports.
+I design and run identity and device platforms for multi-site organizations: Entra ID / hybrid AD, Intune, Conditional Access, and ZTNA (Tailscale / WireGuard). Day-to-day work covers M365, Azure, multi-platform fleets, and making remote access simple without opening the network.
 
-I use Grok Build (`grok`) for implementation work: client sites, automation, and repo changes, then host previews on Vercel. I also run focused Grok bots for build and WordPress instead of one-off chat.
+Currently Systems Engineer at Heritage Imaging. Previously IT Manager at Spokane Tribal Enterprises and ITO at Spokane Indian Housing Authority.
+
+Stack: Intune · Entra ID · Azure · M365 · AD / IAM · Docker · ZTNA
 
 ## Tools and systems
 
@@ -24,4 +26,4 @@ Desktop support (2015) → marketing/BI → IT Officer and IT Manager for multi-
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/itbeau)
-- [DEV](https://dev.to/beau)
+- [X](https://x.com/beaudenison)
