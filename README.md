@@ -13,5 +13,3 @@
 ║  [ ] Ship the indie game                             ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-[streamingtools.xyz](https://www.streamingtools.xyz) · [smoothbrainstudios.xyz](https://smoothbrainstudios.xyz)
